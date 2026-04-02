@@ -1,0 +1,15 @@
+# IDE 相關設定檔
+.idea/
+*.iml
+.vscode/
+
+# 個人開發筆記
+notes/
+
+# 環境變數與機密資訊
+.env
+.env.*
+
+# OS 系統檔案
+.DS_Store
+Thumbs.db
